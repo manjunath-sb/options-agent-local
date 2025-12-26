@@ -1,0 +1,2 @@
+﻿symbol , price , trend , volatility_level , iv_percentile , volume_trend , support_near , resistance_near , days_to_event , market_bias
+TCS ,3319, sideways , low,0,Accumulation (High Delivery) ,yes , no,12,Cautiously Bullish 
