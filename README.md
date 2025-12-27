@@ -172,13 +172,3 @@ The foundation is intentionally designed to scale with better models and richer 
 This project is for **learning and experimentation only**.
 It does not provide financial advice and should not be used for live trading or investment decisions.
 
----
-
-If you want, I can next:
-
-* Compress this into a **1-page README**
-* Convert it into a **portfolio / resume project description**
-* Add a **“lessons learned” section**
-* Or tailor it for a **manager-facing internal repo**
-
-Tell me what you want to refine.
